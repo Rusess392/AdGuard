@@ -1,4 +1,5 @@
 #*$denyallow=edu|mil|gov|com|net|wiki|arpa|apple
+||unifi^$important
 #/\.+[a-zA-Z]{2,}$/
 #/\.+[a-zA-Z]{-2,}$/
 #---------------------------------------------
